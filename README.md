@@ -99,7 +99,7 @@
   <a href="https://www.instagram.com/fezokahh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=224urevclbzb26dxudqpt75ra&cover_image=true&theme=compact&show_offline=false&background_color=9d8080&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=224urevclbzb26dxudqpt75ra&redirect=true)
+</div>
 
