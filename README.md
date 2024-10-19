@@ -63,7 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fezoka/fezoka/output/snake.svg" alt="Snake animation" />
 
 ###
 
