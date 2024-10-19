@@ -75,21 +75,21 @@
 <h2 align="center">Projects</h2>
 
 ###
-
+<div align="center">
 - [Cinema MVC] ( https://github.com/fezzoka/IngressoMVC ) (C#,MySQL)
 
 ###
 
-<h5 align="center">- [Pizzaria MVC] ( https://github.com/fezzoka/Pizzaria-MVC) (C#,MySQL,Azure)</h5>
+- [Pizzaria MVC] ( https://github.com/fezzoka/Pizzaria-MVC) (C#,MySQL,Azure)
 
 ###
 
-<h5 align="center">- [Senagram] ( https://github.com/fezzoka/Senagram-php) (PHP,Laravel)</h5>
+- [Senagram] ( https://github.com/fezzoka/Senagram-php) (PHP,Laravel)
 
 ###
 
-<h5 align="center">- [FluxodeCaixa] ( https://github.com/fezzoka/Fluxo-de-caixas-php) (PHP,Laravel)</h5>
-
+- [FluxodeCaixa] ( https://github.com/fezzoka/Fluxo-de-caixas-php) (PHP,Laravel)
+</div>
 ###
 
 <div align="center">
