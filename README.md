@@ -76,7 +76,7 @@
 
 ###
 
-<h5 align="center">- [Cinema MVC] ( https://github.com/fezzoka/IngressoMVC ) (C#,MySQL)</h5>
+- [Cinema MVC] ( https://github.com/fezzoka/IngressoMVC ) (C#,MySQL)
 
 ###
 
