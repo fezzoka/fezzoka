@@ -76,19 +76,19 @@
 
 ###
 <div align="center">
-- [Cinema MVC] ( https://github.com/fezzoka/IngressoMVC ) (C#,MySQL)
+ [Cinema MVC] ( https://github.com/fezzoka/IngressoMVC ) (C#,MySQL)
 
 ###
 
-- [Pizzaria MVC] ( https://github.com/fezzoka/Pizzaria-MVC) (C#,MySQL,Azure)
+ [Pizzaria MVC] ( https://github.com/fezzoka/Pizzaria-MVC) (C#,MySQL,Azure)
 
 ###
 
-- [Senagram] ( https://github.com/fezzoka/Senagram-php) (PHP,Laravel)
+ [Senagram] ( https://github.com/fezzoka/Senagram-php) (PHP,Laravel)
 
 ###
 
-- [FluxodeCaixa] ( https://github.com/fezzoka/Fluxo-de-caixas-php) (PHP,Laravel)
+ [FluxodeCaixa] ( https://github.com/fezzoka/Fluxo-de-caixas-php) (PHP,Laravel)
 </div>
 ###
 
